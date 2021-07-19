@@ -66,6 +66,7 @@ class Header extends Component {
             </Fade>
             <hr />
             <Fade bottom duration={2000}>
+              <p>Here is one of my latest React projects:</p>
               <ul className="social">
                 <a href={project} className="button btn project-btn">
                   <i className="fa fa-book"></i>Project

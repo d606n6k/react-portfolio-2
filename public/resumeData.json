@@ -1,22 +1,21 @@
 {
   "main": {
-    "name": "William Aaron Lucht",
+    "name": "William A. Lucht",
     "description": "A highly motivated Full Stack Web Developer with over six years of experience assisting clients in the private sector launch and maintain their websites + infrastructure.",
     "image": "profilepic.jpg",
     "bio": "A highly motivated Full Stack Web Developer with over six years of experience assisting clients in the private sector launch and maintain their websites + infrastructure. Advanced knowledge of building efficient e-commerce solutions including Bigcommerce, Magento, Salesforce and Woocommerce. Detailed knowledge of managing and planning website builds and assisting clients in maximizing the utility of their online presence. Seeking a position to grow and expand into new and emerging Web/IT technologies.",
     "contactmessage": "Interested in contacting me? Reach out! I'd love to chat :)",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github": "https://github.com/nordicgiant2/react-nice-resume",
-    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "email": "aaronlucht@gmail.com",
+    "phone": "858-603-4860",
+    "github": "https://github.com/d606n6k/BestMexSD",
+    "project": "https://bestmexsd-appage.herokuapp.com/",
     "address": {
-      "street": "",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Ramona",
+      "state": "Ca",
+      "zip": "92065"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "./resume/wlresume.pdf",
     "social": [
       {
         "name": "linkedin",
