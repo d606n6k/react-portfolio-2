@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "William Aaron Lucht",
-    "description": "I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description": "A highly motivated Full Stack Web Developer with over six years of experience assisting clients in the private sector launch and maintain their websites + infrastructure.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "A highly motivated Full Stack Web Developer with over six years of experience assisting clients in the private sector launch and maintain their websites + infrastructure. Advanced knowledge of building efficient e-commerce solutions including Bigcommerce, Magento, Salesforce and Woocommerce. Detailed knowledge of managing and planning website builds and assisting clients in maximizing the utility of their online presence. Seeking a position to grow and expand into new and emerging Web/IT technologies.",
+    "contactmessage": "Interested in contacting me? Reach out! I'd love to chat :)",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "github": "https://github.com/nordicgiant2/react-nice-resume",
@@ -19,89 +19,88 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/williamlucht/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://github.com/d606n6k",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I love Web Technologies! I'm pretty dang good with these technologies:",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2017",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Univeristy of California San Diego",
+        "degree": "Full Stack Web Development - Certificate of Completion",
+        "graduated": "June 2021",
+        "description": "This Fullstack Web Development course taught Full Stack Web Development utilizing the MERN stack (MongoDB, Express, React.js, and Node.js). This course also taught Html, CSS, Javascript, and how to utilize Git/Github in a production environment."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2013",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Platt College San Diego",
+        "degree": "Bachelor of Science - Web Design & Development",
+        "graduated": "June 2016",
+        "description": "This Full Stack course focused on the LAMP stack (Linux, Apache, MySQL, and PHP) development. We also learned core design fundamentals and industry standard design tools utilizing the Adobe Creative Suite."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2018 - Present",
+        "company": "V-Digital Services - Web Project Manager",
+        "title": "Web Project Manager",
+        "years": "August 2018 - October 2019",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2017 - February 2018",
+        "company": "Mt. Baker Vapor - Mesa, Az",
+        "title": "Junior Full Stack Engineer",
+        "years": "September 2017 - August 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Blacart Creative Group - El Cajon, Ca",
+        "title": "Web Developer",
+        "years": "January 2016 - February 2018",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills": [
       {
-        "name": "Python",
-        "level": "60%"
-      },
-      {
-        "name": "VueJs",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "HTML",
+        "level": "90%"
       },
       {
         "name": "CSS",
         "level": "90%"
       },
       {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "Linux",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
         "name": "PHP",
         "level": "80%"
       },
       {
-        "name": "Swift",
-        "level": "50%"
+        "name": "Node.js",
+        "level": "70%"
       },
       {
-        "name": "JAVA",
+        "name": "Apache",
         "level": "80%"
       }
     ]
