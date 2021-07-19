@@ -1,0 +1,183 @@
+{
+  "main": {
+    "name": "William A. Lucht",
+    "description": "A highly motivated Full Stack Web Developer with over six years of experience assisting clients in the private sector launch and maintain their websites + infrastructure.",
+    "image": "profilepic.jpg",
+    "bio": "A highly motivated Full Stack Web Developer with over six years of experience assisting clients in the private sector launch and maintain their websites + infrastructure. Advanced knowledge of building efficient e-commerce solutions including Bigcommerce, Magento, Salesforce and Woocommerce. Detailed knowledge of managing and planning website builds and assisting clients in maximizing the utility of their online presence. Seeking a position to grow and expand into new and emerging Web/IT technologies.",
+    "contactmessage": "Interested in contacting me? Reach out! I'd love to chat :)",
+    "email": "aaronlucht@gmail.com",
+    "phone": "858-603-4860",
+    "github": "https://github.com/d606n6k/BestMexSD",
+    "project": "https://bestmexsd-appage.herokuapp.com/",
+    "address": {
+      "city": "Ramona",
+      "state": "Ca",
+      "zip": "92065"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "./resume/wlresume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/williamlucht/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/d606n6k",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I love Web Technologies! I'm pretty dang good with these technologies:",
+    "education": [
+      {
+        "school": "Univeristy of California San Diego",
+        "degree": "Full Stack Web Development - Certificate of Completion",
+        "graduated": "June 2021",
+        "description": "This Fullstack Web Development course taught Full Stack Web Development utilizing the MERN stack (MongoDB, Express, React.js, and Node.js). This course also taught Html, CSS, Javascript, and how to utilize Git/Github in a production environment."
+      },
+      {
+        "school": "Platt College San Diego",
+        "degree": "Bachelor of Science - Web Design & Development",
+        "graduated": "June 2016",
+        "description": "This Full Stack course focused on the LAMP stack (Linux, Apache, MySQL, and PHP) development. We also learned core design fundamentals and industry standard design tools utilizing the Adobe Creative Suite."
+      }
+    ],
+    "work": [
+      {
+        "company": "V-Digital Services - Web Project Manager",
+        "title": "Web Project Manager",
+        "years": "August 2018 - October 2019",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Mt. Baker Vapor - Mesa, Az",
+        "title": "Junior Full Stack Engineer",
+        "years": "September 2017 - August 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Blacart Creative Group - El Cajon, Ca",
+        "title": "Web Developer",
+        "years": "January 2016 - February 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "Linux",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "Apache",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
