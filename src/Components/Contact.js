@@ -106,18 +106,20 @@ class Contact extends Component {
           <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>Address and Phone</h4>
+                <h4>Phone</h4>
                 <p className="address">
-                  {name}
-                  <br />
-                  {street} <br />
+                  {/* {name} */}
+                  {/* <br /> */}
+                  {/* {street} <br />
                   {city}, {state} {zip}
-                  <br />
-                  <span>{phone}</span>
+                  <br /> */}
+                  <span>
+                    <a href="tel:8586034860">{phone}</a>
+                  </span>
                 </p>
               </div>
 
-              <div className="widget widget_tweets">
+              {/* <div className="widget widget_tweets">
                 <h4 className="widget-title">Latest Tweets</h4>
                 <ul id="twitter">
                   <li>
@@ -144,7 +146,20 @@ class Contact extends Component {
                     </b>
                   </li>
                 </ul>
-              </div>
+              </div> */}
+
+              {/* Discord Iframe */}
+              <h4>Discord</h4>
+              <p>emericas#8902</p>
+              <iframe
+                title="William's Discord"
+                src="https://discord.com/widget?id=255494643121127426&theme=dark"
+                width="350"
+                height="500"
+                allowtransparency="true"
+                frameborder="0"
+                sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
+              ></iframe>
             </aside>
           </Slide>
         </div>
