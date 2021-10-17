@@ -885,7 +885,7 @@ call-to-action .button {
   color: #636363;
 }
 #contact .section-head {
-  margin-bottom: 42px;
+  margin-bottom: 24px;
 }
 
 #contact a,
@@ -960,7 +960,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
   color: #fff;
-  background-color: #0762f9;
+  background-color: #1e1e1e;
 }
 #contact button.submit {
   text-transform: uppercase;
