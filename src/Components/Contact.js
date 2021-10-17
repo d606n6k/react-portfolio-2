@@ -147,7 +147,7 @@ const Contact = () => {
             <iframe
               title="William's Discord"
               src="https://discord.com/widget?id=255494643121127426&theme=dark"
-              width="350"
+              width="100%"
               height="500"
               allowtransparency="true"
               frameborder="0"
