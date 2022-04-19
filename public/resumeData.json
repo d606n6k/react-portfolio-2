@@ -33,7 +33,7 @@
     "skillmessage": "I love Web Technologies! I'm pretty dang good with these technologies:",
     "education": [
       {
-        "school": "Univeristy of California San Diego",
+        "school": "University of California San Diego",
         "degree": "Full Stack Web Development - Certificate of Completion",
         "graduated": "June 2021",
         "description": "This Fullstack Web Development course taught Full Stack Web Development utilizing the MERN stack (MongoDB, Express, React.js, and Node.js). This course also taught Html, CSS, Javascript, and how to utilize Git/Github in a production environment."
